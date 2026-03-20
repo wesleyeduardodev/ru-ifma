@@ -8,7 +8,7 @@
 - **Autenticacao:** JWT + Refresh Token com BCrypt (strength 12)
 - **Deploy:** Frontend na Vercel, Backend no Railway
 
-## Estrutura do workspace
+## Estrutura do workspace 
 
 ```
 ru-ifma/
